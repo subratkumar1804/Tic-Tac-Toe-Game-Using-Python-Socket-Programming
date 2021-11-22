@@ -45,23 +45,7 @@ python server.py
     ```
 - Now you can start playing Tic Tac Toe over a network.
 
----
 
-## Screenshots
-Player 1         |  Player 2
-:-------------------------:|:-------------------------:
-<img src="images/Player1.png" width="90%"> | <img src="images/Player2.png" width="90%">
-
-### Player 1 Wins
-![Player 1 Wins](images/Player1Wins.png)
-
-### Player 2 Wins
-![Player 2 Wins](images/Player2Wins.png)
-
-### Draw Game
-![Draw Game](images/DrawGame.png)
-
----
 
 ### Note
 Feel free to play the other versions of Tic Tac Toe in this repo *(on Terminal, on Terminal with Socket)*.
